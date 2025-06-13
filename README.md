@@ -57,6 +57,7 @@ I'm a passionate **AI Engineer** and **B.Tech student** at **IIT Bombay**. Curre
 - **Tech Stack:** Scikit-learn, Streamlit, Docker, AWS EC2, AWS Route53
   
 ### 🦜 **Birds Classification using Swin Transformers**
+- **Link**: https://huggingface.co/spaces/Akshit-77/Bird-Classifier
 - **State-of-the-art** bird species classification using Swin Transformers
 - Deployed on **Hugging Face Spaces** for real-time inference
 
