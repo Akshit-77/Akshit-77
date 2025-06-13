@@ -68,7 +68,7 @@ I'm a passionate **AI Engineer** and **B.Tech student** at **IIT Bombay**. Curre
 - Built **low-latency** AI voice agent using **Eleven Labs TTS**
 - **Tech Stack:** Eleven Labs, Vercel, Ngrok, Gemini API
 
-  ### 🏥 **Glucose Level Calculator**
+### 🏥 **Glucose Level Calculator**
 - Production-ready **ML model** deployed on **AWS EC2**
 - Achieved **93% accuracy** in diabetes prediction using **Random Forest**
 - Scalable deployment with **Nginx** and **Gunicorn**
