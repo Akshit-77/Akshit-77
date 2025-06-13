@@ -1,7 +1,7 @@
 # Hi there, I'm Akshit Kumar Sharma! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+ML+Developer;IIT+Bombay+Student;Building+the+Future+with+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+ML+Developer;Deep+Learning+%7C+Computer+Vision;MLOps+%7C+Cloud+Deployment" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
