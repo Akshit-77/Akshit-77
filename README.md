@@ -48,6 +48,7 @@ I'm a passionate **AI Engineer** and **B.Tech student** at **IIT Bombay**. Curre
 ## 🎯 Featured Projects
 
 ### 🧠 **Personality Prediction App**
+- **Link**: Akshitmlstudio.click
 - Developed **ML model** for personality prediction achieving **>90% accuracy**
 - Built interactive web interface using **Streamlit** for user-friendly experience
 - Created **Docker image** for containerized deployment ensuring consistency across environments
