@@ -82,6 +82,7 @@ I'm a passionate **AI Engineer** and **B.Tech student** at **IIT Bombay**. Curre
 - Applied to **Alzheimer's detection** using novelty classification
 
 ### 😊 **Facial Emotion Recognition**
+- **Link**: https://huggingface.co/spaces/Akshit-77/fer-emotions-model
 - Built **PyTorch CNN** for FER2013 dataset with **83% accuracy**
 - Implemented data augmentation for improved generalization
 - Deployed on **Hugging Face Spaces** with **Gradio** interface
