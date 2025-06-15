@@ -1,0 +1,33 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs once every day at midnight UTC
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: ${{ github.repository_owner }}
+          show_icons: true
+          theme: tokyonight # Or choose another theme that matches your preference (e.g., "radical", "tokyonight", "onedark")
+          hide_border: true # Set to true if you don't want a border
+          custom_title: My GitHub Contributions # Optional: Custom title for your stats
+          exclude_repo: "" # Optional: Comma-separated list of repos to exclude
+          show_contribution_calendar: true # This is the key for the contribution graph!
+
+      - name: Update README
+        run: |
+          sed -i '/^/,/^/d' README.md
+          echo "" >> README.md
+          echo "![GitHub Stats](https://github.com/${{ github.repository_owner }}/github-readme-stats/blob/master/generated_stats.svg)" >> README.md
+          echo "" >> README.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Ensure your token has repo scope
