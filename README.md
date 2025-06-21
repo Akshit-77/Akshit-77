@@ -18,7 +18,7 @@ I'm a passionate **AI Engineer** and **B.Tech student** at **IIT Bombay**. Curre
 **AI Engineer** @ **Easecruit Technologies Pvt Ltd** *(Mar 2024 - May 2024)*
 
 ## My Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akshit-77&theme=github)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akshit-77&theme=github&bg_color=0d1117&color=58a6ff&point=ffffff&hide_border=true&custom_title=GitHub%20Activity%20Graph)
 
 ## 🛠️ Tech Stack
 
