@@ -98,14 +98,14 @@ I'm a passionate **AI Engineer** and **B.Tech student** at **IIT Bombay**. Curre
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshit-77&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit-77&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=repo-name" alt="Top Languages" />
-</div>
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshit-77&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)](https://github.com/Akshit-77)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Akshit-77&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit-77&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Akshit-77)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Akshit-77&theme=tokyonight&hide_border=true)](https://github.com/Akshit-77)
+
+</div>
 
 
 ## 📫 Let's Connect!
