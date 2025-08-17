@@ -16,6 +16,7 @@ I'm a passionate **AI Engineer** and **B.Tech student** at **IIT Bombay**. Curre
 ## 💼 Professional Experience
 
 **AI Engineer** @ **Easecruit Technologies Pvt Ltd** *(Mar 2024 - May 2024)*
+**AI/ML Intern** @ **Furno.AI** *(May 2025 - Jun 2025)*
 
 ## My Activity
 <div align="center">
